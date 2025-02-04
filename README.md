@@ -51,7 +51,7 @@ Download the .pbix file.
 
 Open it in Power BI Desktop.
 
-Explore the interactive reports and visualizations.
+Explore the interactive reports and visualizations <a href="https://github.com/Chaudhary-Mansi/Amazon-Prime-Content-Analysis-Visualization/blob/main/Amazon%20Prime%20Movie%20and%20TV%20Shows.png">Dashboard</a>
 
 ## Dashboard Features
 
@@ -71,3 +71,6 @@ Adding advanced filtering options.
 Incorporating sentiment analysis on user reviews.
 
 Expanding the dataset with regional availability information.
+
+![Amazon Prime Movie and TV Shows](https://github.com/user-attachments/assets/8c9f68fc-f3f0-4ff4-b13f-0687cd85dead)
+
