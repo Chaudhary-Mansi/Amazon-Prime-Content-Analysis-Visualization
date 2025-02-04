@@ -18,7 +18,7 @@ User Ratings: Analyze ratings to determine viewer preferences.
 These insights can be valuable for content acquisition, marketing, and overall platform strategy.
 
 
-📂 Dataset <a href="https://github.com/Chaudhary-Mansi/Amazon-Prime-Content-Analysis-Visualization/blob/main/amazon_prime_titles.csv"></a>
+📂 Dataset <a href="https://github.com/Chaudhary-Mansi/Amazon-Prime-Content-Analysis-Visualization/blob/main/amazon_prime_titles.csv">Titles</a>
 
 File Name: Amazon Prime Movie and TV Shows.pbix
 
